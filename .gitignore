@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+!.env.example
+__pycache__/
+*.pyc
+.vercel
+supabase/.temp
